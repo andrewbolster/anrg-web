@@ -7,6 +7,8 @@ links:
    url: http://twitter.com/vselis
  - name: Facebook
    url: https://www.facebook.com/HarmonRabbJr
+ - name: Personal Page
+   url: http://mypersonalpage.com
 ---
 
 #Research Interests
