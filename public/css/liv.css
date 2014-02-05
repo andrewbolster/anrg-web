@@ -1,0 +1,26 @@
+/*
+ * Liverpool Style Overrides
+ * from:
+ * https://www.liv.ac.uk/intranet/media/intranet/corporateidentity/documents/UNIVERSITY-OF-LIVERPOOL-BRAND-GUIDE.PDF
+ * https://www.liv.ac.uk/intranet/media/intranet/digitalcommunications/style-guide-document.pdf
+ *
+ */
+.sidebar {
+  background-color: #003A81
+}
+.sidebar a {
+  color: #e5ebf2
+}
+
+
+.sidebar h2 {
+  color: rgba(255,255,255,0.25)
+}
+
+.straptab img {
+  max-width: 5%
+}
+
+body {
+  color: #666
+}
