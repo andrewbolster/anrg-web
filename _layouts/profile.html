@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+{% if page.picture %}
+<img style="float:right"src="{{ page.picture }}"</img>
+{% endif %}
+<div class="page">
+  <h1 class="page-title">{{ page.title }}</h1>
+  <ul>{% for linklog in page.links %}
+    <li><a href="{{ linklog.url }}">{{ linklog.name }}</a></li>
+  {% endfor %}
+  </ul>
+  {{ content }}
+</div>
