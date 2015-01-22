@@ -3,12 +3,13 @@ layout: page
 title: Our People
 frontpage: True
 ---
-#Staff
-* [Prof Alan Marshall](/people/alan.marshall) - Alan doesn't like bios
+# Academic Staff
+* [Prof Alan Marshall](/people/alanm) - Alan doesn't like bios
 
 #PhD Researchers
 * [Andrew Bolster](/people/bolster) - Marine Comms, Trust, Simulation, Emergent Processes and Hackerspaces
 * [Valerio Selis](/people/vselis) - M2M Comms, Wifi, Internet Of Things
+* [Ahmed Al-Tahmeesschi](/people/aaltahmeesschi) - Massive MIMO, 60Ghz, Beam-forming
 
 #MEng/MSc Students
 * [Ann Other]()

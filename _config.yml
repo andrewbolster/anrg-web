@@ -6,8 +6,8 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            A.N.G.
-tagline:          'The University of Liverpool Advanced Networks Group'
+title:            A.N.R.G.
+tagline:          'The University of Liverpool Advanced Networks Research Group'
 description:      'Advanced connectivity for advanced applications; Trusted Autonomy, High Speed CANs, Haptics, Secure Wireless'
 logo:             /public/img/ang_logo.png
 url:              http://andrewbolster.info/advanced-networks-group/

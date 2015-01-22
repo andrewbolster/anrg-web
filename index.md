@@ -11,5 +11,4 @@ Historically, these networks have primarily been concerned with the hierarchical
 
 The Advanced Networks Group is concerned with addressing the challenges of the construction, maintenance and application of future networks.
 
-We also do lots of other awesome and amazing stuff that really doesn't spring to mind at the minute...
-
+**This site is currently under development and does not include all of our work**
